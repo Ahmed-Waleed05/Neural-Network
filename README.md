@@ -1,7 +1,7 @@
 # Neural-Network
 
-**for the NN file to work first extract the **archive.zip** folder then copy the path of the **mnist_train.csv** file and 
-**replace the **TRAIN PATH HERE** do the same with **mnist_test.csv** and **TEST PATH HERE**
+for the NN file to work first extract the **archive.zip** folder then copy the path of the **mnist_train.csv** file and 
+replace the **TRAIN PATH HERE** do the same with **mnist_test.csv** and **TEST PATH HERE**
 
 
 
